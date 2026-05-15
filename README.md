@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Привет, меня зовут Никита
 
-<!--
-**NikitaBuchenik/NikitaBuchenik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Студент 3 курса**  
+СФУ, Институт космических и информационных технологий (ИКИТ)  
+Направление: **Информатика и вычислительная техника** (ИВТ)
 
-Here are some ideas to get you started:
+### 📚 Академический опыт
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+За время учебы освоил ключевые дисциплины и закрепил их на практике:
+
+*   **Алгоритмизация и основы программирования**: C/C++, Python, структуры данных.
+*   **Базы данных**: SQL (PostgreSQL/MySQL), проектирование ER-диаграмм.
+*   **Web-технологии**: HTML, CSS, JavaScript (основы фронтенда).
+*   **Операционные системы**: Linux (Ubuntu), основы командной строки, скриптинг Bash.
+*   **Численные методы и MathCAD/Matlab**: Решение инженерных расчетных задач.
+*   **Электротехника и схемотехника**: Основы цифровых устройств, теория цифровых автоматов.
+
+### 🛠️ Стек технологий
+
+```text
+Языки:     C++, Python, C#, SQL
+Инструменты:  Git, Visual Studio, VS Code, Linux Terminal
+Базы данных:  PostgreSQL, SQLite
